@@ -5,7 +5,7 @@ const poliList = [
   ['Saraf', 'Eksekutif'],
   ['THT', 'Geriatric'],
   ['Obgyn', 'Onkologi'],
-  ['Psiko', 'Mata', 'Anak'],
+  ['Psikologi', 'Mata', 'Anak'],
   ['Jiwa', 'Kulit'],
   ['Bedah Umum', 'Bedah Syaraf', 'Bedah Urologi', 'Bedah Vaskuler', 'Bedah Orthopedic'],
   ['Jantung', 'Internis', 'Paru'],
