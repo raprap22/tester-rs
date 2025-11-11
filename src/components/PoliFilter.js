@@ -81,7 +81,6 @@ export default function PoliFilter({ selectedPoli, setSelectedPoli }) {
             border: '1px solid #ccc',
             borderRadius: '6px',
             boxShadow: '0 2px 6px rgba(0,0,0,0.1)',
-            maxHeight: '200px',
             overflowY: 'auto',
             zIndex: 10,
             padding: '10px',
